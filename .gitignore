@@ -1,0 +1,13 @@
+*.crt
+*.key
+tls.*
+
+#User Defined
+*.jtl
+*.log
+*.hprof
+*.code-workspace
+gitign_*
+*_gitign
+*_gitign_*
+.vscode
